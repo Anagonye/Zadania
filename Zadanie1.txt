@@ -1,0 +1,8 @@
+1.A
+Klasy abstrakcyjne sostuje się wtedy kiedy chcemy odwzorować obiekty na zasadzie pewnej hierarchi lub wspólnych cech. Np klasą abstakcyjną może być zwierzę a klasami po niej dzieczącymi kot i pies.
+Interfejsy stostujemy żeby wynieść kod na pewien poziom abstrakcji. Dzięki nim możemy oddzielić metody od ich implemetacji co w przyszłości rozowju aplikacji ułatwi jej modyfikacje.
+
+1.B
+Tablica musi mieć z góry określoną liczbę elementów nastomiast lista nie musi i ma zestaw gotowych metod. W większość sytuacji powinni używać się list.
+
+
